@@ -11,10 +11,10 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Tsuki',
   imageBackground: false,
   openInNewTab: true,
-  twelveHourFormat: false,
+  twelveHourFormat: true,
 
   // Greetings
   greetingMorning: 'Good morning!',
@@ -23,14 +23,14 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
-  weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
-  weatherUnit: 'C', // 'F', 'C'
+  weatherKey: 'd75b2e0ae8d21bae0208fc102a3b2767',
+  weatherIcons: 'Nord', // 'Nord', 'Dark', 'White'
+  weatherUnit: 'F', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
-  trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '37.775',
-  defaultLongitude: '-122.419',
+  trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
+  defaultLatitude: '26.609859',
+  defaultLongitude: '-80.058571',
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
   // │  ├─┤├┬┘ ││└─┐
@@ -42,19 +42,19 @@ const CONFIG = {
       id: '1',
       name: 'Github',
       icon: 'github',
-      link: 'https://github.com/',
+      link: 'https://github.com/Tsukiiiiiiii/Bento/edit/master/config.js',
     },
     {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.google.com.com/',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Spotify',
+      icon: 'music',
+      link: 'https://www.spotify.com/us/',
     },
     {
       id: '4',
@@ -70,9 +70,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'Youtube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube.com/',
     },
   ],
 
