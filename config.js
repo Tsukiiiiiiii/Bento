@@ -106,20 +106,20 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Discord',
+        link: 'https://discord.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Steam',
+        link: 'https://store.steampowered.com/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Minecraft',
+        link: 'https://www.minecraft.net/en-us/login',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Twitter',
+        link: 'twitter.com',
       },
     ],
   },
