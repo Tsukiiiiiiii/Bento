@@ -114,7 +114,7 @@ const CONFIG = {
         link: 'https://store.steampowered.com/',
       },
       {
-        name: 'Minecraft',
+        name: 'Elden Ring',
         link: 'https://www.minecraft.net/en-us/login',
       },
       {
