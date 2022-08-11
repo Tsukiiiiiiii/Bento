@@ -92,11 +92,11 @@ const CONFIG = {
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
       {
-        name: 'Classic',
+        name: 'Hiphop',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
       {
-        name: 'Oldies',
+        name: 'Rap',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
       {
@@ -114,7 +114,7 @@ const CONFIG = {
         link: 'https://store.steampowered.com/',
       },
       {
-        name: 'Elden Ring',
+        name: 'r/mechmarket',
         link: 'https://www.minecraft.net/en-us/login',
       },
       {
