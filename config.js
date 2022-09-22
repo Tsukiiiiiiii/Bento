@@ -22,7 +22,7 @@ const CONFIG = {
   greetingEvening: 'Good evening,',
   greetingNight: 'Go to Sleep!',
 
-  // Weather
+  // Weather key
   weatherKey: 'd75b2e0ae8d21bae0208fc102a3b2767',
   weatherIcons: 'Nord', // 'Nord', 'Dark', 'White'
   weatherUnit: 'F', // 'F', 'C'
@@ -48,7 +48,7 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.google.com.com/',
+      link: 'https://mail.google.com/',
     },
     {
       id: '3',
